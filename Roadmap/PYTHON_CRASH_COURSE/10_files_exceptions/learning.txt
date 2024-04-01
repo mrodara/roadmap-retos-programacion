@@ -1,0 +1,7 @@
+variables
+operators
+loops
+data structures
+strings
+conditionals
+poo
